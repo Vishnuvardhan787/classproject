@@ -1,7 +1,7 @@
 /* GET homepage */
 const index = (req, res) => {
-    res.render('index', { title: 'Class Project' });
-    };
+    res.render('index', { title: 'Harley Davidson' });
+   };
 module.exports = {
-    index
-    };
+index
+};
